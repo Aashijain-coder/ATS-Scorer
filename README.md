@@ -21,6 +21,20 @@ The frontend is deployed on Streamlit Community Cloud.
 The complete resume analysis pipeline is currently available
 through local execution due to cloud infrastructure memory limitations.
 
+## 🌐 Deployment Status
+
+| Component | Platform | Status |
+|-----------|----------|--------|
+| Frontend | Streamlit Cloud | 🟢 Deployed |
+| Backend | Localhost | 🟢 Local execution |
+| Cloud Backend | Render | 🟡 Memory limitation |
+| Database | Supabase | 🟢 Cloud-hosted |
+| LLM | Groq API | 🟢 API integration |
+
+The application is designed for cloud deployment. Currently,
+the backend runs locally due to the memory limitations of
+Render's free-tier infrastructure.
+
 ## ✨ Features
 
 - **Resume Parsing:** Supports PDF, DOC and DOCX formats.
