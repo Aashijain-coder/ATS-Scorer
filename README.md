@@ -13,6 +13,14 @@ Developed as a **Final Year Project**, the system combines Natural Language Proc
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
+## 🌐 Live Demo
+
+[![Streamlit App](https://img.shields.io/badge/Frontend-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://appapppy-okhvappn7tymxblkwcndinm.streamlit.app/)
+
+The frontend is deployed on Streamlit Community Cloud.
+The complete resume analysis pipeline is currently available
+through local execution due to cloud infrastructure memory limitations.
+
 ## ✨ Features
 
 - **Resume Parsing:** Supports PDF, DOC and DOCX formats.
